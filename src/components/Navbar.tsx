@@ -29,7 +29,7 @@ export default function Navbar() {
     >
       <div className="max-w-7xl mx-auto px-6 md:px-12 flex items-center justify-between">
         <a href="#home" className="text-2xl font-extrabold tracking-tighter text-gradient transition-transform hover:scale-105">
-          Vijay Khonde<span className="text-white">.</span>
+          Vijay Khonde<span className="text-white"> </span>
         </a>
 
         {/* Desktop Nav */}
