@@ -27,7 +27,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-lg md:text-xl text-slate-400 mb-10 max-w-xl leading-relaxed font-light">
-            Computer Engineering student looking for a Software Engineering role. Strong basics in Java, Data Structures, and MERN development.
+            Computer Engineering student looking for a Software Engineering role. Strong basics in Java, Data Structures, and MERN development .
           </p>
 
           <div className="flex flex-wrap items-center gap-6">
