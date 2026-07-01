@@ -7,7 +7,7 @@ const skillCategories = [
   },
   {
     title: 'Frontend',
-    skills: ['HTML', 'CSS', 'Bootstrap', 'React (Learning)', 'Tailwind (Learning)'],
+    skills: ['HTML', 'CSS', 'Bootstrap', 'React ', 'Tailwind (Learning)'],
   },
   {
     title: 'Backend',
