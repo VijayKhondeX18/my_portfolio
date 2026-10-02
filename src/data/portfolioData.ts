@@ -233,10 +233,4 @@ export const ACHIEVEMENTS: AchievementItem[] = [
     type: 'leadership',
     description: 'Active member participating in technical workshops, coding contests, and peer learning.'
   },
-  {
-    title: 'Academic Project Team Leader',
-    organization: 'RCPIT Academic Projects',
-    type: 'leadership',
-    description: 'Led project teams through task distribution, system design, development sprint management, and final presentation.'
-  }
 ];
